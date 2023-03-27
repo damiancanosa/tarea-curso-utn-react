@@ -1,0 +1,146 @@
+.containerlogos {
+    display: flex;
+ }
+ 
+ .containerlogos .listalogos {
+    display: flex;
+ }
+ 
+ .copy p {
+    color: white;
+    font-size: large;
+ }
+ 
+ .listalogos img {
+    height: 40px;
+ }
+ 
+ .netflix {
+    display: flex;
+    border: solid white;
+    height: 150px;
+    margin: 10px;
+    border-radius: 10px;
+    background-image: url(/public/img/netflix.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    transition: all 400ms ease-out;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ .netflixbarra img {
+    height: 140px;
+    width: 200px;
+ 
+ }
+ 
+ .netflix:hover {
+    transform: translateY(-3%);
+    box-shadow: 5px 5px 20px rgba(255, 255, 255, 0.4);
+ }
+ 
+ .amazon {
+    display: flex;
+    border: solid white;
+    border-radius: 10px;
+    height: 150px;
+    margin: 10px;
+    background-image: url(/public/img/primevideobarra.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    transition: all 400ms ease-out;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ .amazonprimebarra img {
+    height: 140px;
+    width: 200px;
+ 
+ }
+ 
+ 
+ .amazon:hover {
+    transform: translateY(-3%);
+    box-shadow: 5px 5px 20px rgba(255, 255, 255, 0.4);
+ }
+ 
+ 
+ .paramount {
+    display: flex;
+    border: solid white;
+    border-radius: 10px;
+    height: 150px;
+    margin: 10px;
+    background-image: url(/public/img/paramount.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    transition: all 400ms ease-out;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ .paramountbarra img {
+    height: 140px;
+    width: 200px;
+ 
+ }
+ 
+ .paramount:hover {
+    transform: translateY(-3%);
+    box-shadow: 5px 5px 20px rgba(255, 255, 255, 0.4);
+ }
+ 
+ .hbo {
+    display: flex;
+    border: solid white;
+    border-radius: 10px;
+    height: 150px;
+    margin: 10px;
+    background-image: url(/public/img/hbo3.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    transition: all 400ms ease-out;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ .hbobarra img {
+    height: 140px;
+    width: 200px;
+ }
+ 
+ .hbo:hover {
+    transform: translateY(-3%);
+    box-shadow: 5px 5px 20px rgba(255, 255, 255, 0.4);
+ }
+ 
+ .disney {
+    display: flex;
+    border: solid white;
+    border-radius: 10px;
+    height: 150px;
+    margin: 10px;
+    background-image: url(/public/img/disney.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    transition: all 400ms ease-out;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ .disneybarra img {
+    height: 140px;
+    width: 200px;
+ }
+ 
+ .disney:hover {
+    transform: translateY(-3%);
+    box-shadow: 5px 5px 20px rgba(255, 255, 255, 0.4);
+ }

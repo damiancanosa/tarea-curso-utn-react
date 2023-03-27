@@ -1,0 +1,26 @@
+#trailer {
+    background: #a81313;
+ }
+
+ .trailer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+ 
+ .trailer iframe {
+    margin-left: 40px;
+ 
+ }
+ 
+ .trailer img {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+ }
+ 
+ .trailer p {
+    color: white;
+    font-size: medium;
+    margin-left: 40px;
+ }

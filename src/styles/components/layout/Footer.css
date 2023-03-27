@@ -1,0 +1,34 @@
+.containerpie {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: solid white;
+    border-width: thin;
+    height: 120px;
+    margin-left: 20px;
+    margin-right: 20px;
+ }
+ 
+ 
+ .pie img {
+ 
+    width: 80px;
+    height: 40px;
+ }
+ 
+ .containerlogos {
+    display: flex;
+ }
+ 
+ .containerlogos .listalogos {
+    display: flex;
+ }
+ 
+ .copy p {
+    color: white;
+    font-size: large;
+ }
+ 
+ .listalogos img {
+    height: 40px;
+ }
